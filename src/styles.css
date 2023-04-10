@@ -80,3 +80,7 @@ h2 {
   top: 0;
   /*transform: scale(1.1);*/
 }
+
+div {
+  cursor: url('/assets/mallet.png'),auto;
+}
